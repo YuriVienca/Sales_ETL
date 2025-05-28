@@ -1,4 +1,4 @@
-# ☕ Limpeza e Pré-processamento de Dados de Vendas de Café
+# ☕ Limpeza e Pré-processamento de Dados de Vendas em Loja de Café
 
 Este projeto tem como objetivo automatizar a limpeza, padronização e transformação de um conjunto de dados de vendas de café, permitindo sua posterior análise ou armazenamento em banco de dados. O script processa os dados brutos e os exporta para um novo arquivo `.csv` e para um banco SQLite.
 
