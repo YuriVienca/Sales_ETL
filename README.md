@@ -7,7 +7,7 @@ Este projeto tem como objetivo automatizar a limpeza, padronização e transform
 ## 📂 Estrutura do Projeto
 
 ```
-├── coffee_sales.csv        # Arquivo de entrada (não incluído no repositório)
+├── coffee_sales.csv        # Arquivo de entrada
 ├── sales_cleaned.csv       # Arquivo limpo gerado após o processamento
 ├── vendas.db               # Banco de dados SQLite com a tabela limpa (opcional)
 ├── etl_sales.py            # Script principal de pré-processamento
