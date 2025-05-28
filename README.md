@@ -8,9 +8,9 @@ Este projeto tem como objetivo automatizar a limpeza, padronização e transform
 
 ```
 ├── coffee_sales.csv        # Arquivo de entrada (não incluído no repositório)
-├── saida.csv               # Arquivo limpo gerado após o processamento
+├── sales_cleaned.csv               # Arquivo limpo gerado após o processamento
 ├── vendas.db               # Banco de dados SQLite com a tabela limpa (opcional)
-├── processamento.py        # Script principal de pré-processamento
+├── etl_sales.py        # Script principal de pré-processamento
 └── README.md               # Este arquivo
 ```
 
